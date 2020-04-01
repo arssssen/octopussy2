@@ -1,4 +1,6 @@
 .l{float: left;}
+body{height: 100%;
+font-family: Arial, Helvetica, sans-serif;color:rgb(0, 58, 92) ;}
 .r{float: right;}
 li{
     display: inline;
@@ -78,7 +80,163 @@ li{
     width: 1500px;
     box-sizing: border-box;
     font-family: Arial, Helvetica, sans-serif;
-    margin-left: 200;
+    margin-left: 192;
     height: 1100;
 
+}  
+
+.txt3{
+    width: 1500px;
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+
+}
+.w123{
+    width: 1500px;
+    height: 100px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin: auto;
+
+}
+.h:hover{
+    border-bottom: rgb(255, 94, 35) 5px solid;
+}
+
+.blck3{
+    display: flex;
+    margin: auto;
+    align-items: center;
+    justify-content: center;
+    height: 600;
+
+}
+.button2{
+    background-color:rgb(255, 94, 35);
+    border: rgb(255, 94, 35) 2px solid;
+    border-radius: 10px;
+    color:white ;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 4px 2px;
+    cursor: pointer;
+    padding: 23px 50px;
+    margin-top: 45px;}
+
+
+.kek{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    height: 700px;
+    margin-top: 100px;
+    background-color: rgb(247, 247, 247);
+
+
+
+
+}
+.txt4{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-items: center;
+
+}
+.dots{
+    align-items: center;
+    font-family: monospace;
+    display: inline-flex;
+}
+.aa{
+    display: flex;
+    justify-content:space-evenly;
+    align-items: center;
+    margin: auto;
+
+
+}
+.form2{
+    background-color: white;
+    border: rgb(218, 218, 218) 1px solid;
+    border-radius: 10px;
+    font-size: 20px;
+    color:rgb(167, 167, 167) ;
+    height: 70px;
+    padding: 0px 20px;
+    width: 500px;
+
+}
+.form3{
+    background-color: white;
+    border: rgb(218, 218, 218) 1px solid;
+    border-radius: 10px;
+    font-size: 20px;
+    color:rgb(167, 167, 167) ;
+    height: 150px;
+    width: 500px;
+    padding: 0 20;
+}
+.label{
+    font-size: 20px;
+}
+
+
+
+footer{
+margin-top: 100px;
+
+width: 100%;
+height: 700px;
+background-color: rgb(11, 34, 54);
+display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: center;
+
+}
+.form4{
+    background-color: rgba(255, 255, 255, 0.089);
+    border: rgba(255, 255, 255, 0.089) 1px solid;
+    border-radius: 10px;
+    font-size: 20px;
+    color:rgb(190, 190, 190) ;
+    height: 70px;
+    padding: 0px 20px;
+    width: 500px;
+
+}
+.button3{
+    background-color:rgb(255, 94, 35);
+    border: rgb(255, 94, 35) 2px solid;
+    border-radius: 10px;
+    color:white ;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    height: 70px;
+    cursor: pointer;
+    padding: 0px 20px;
+    margin-left: 15px;
+}
+.form5{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 40px;
+
+}
+.end{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
 }
