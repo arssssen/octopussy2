@@ -4,3 +4,7 @@
 ![](imgs/screenshot1.png)
 ![](imgs/screenshot2.png)
 ![](imgs/screenshot3.png)
+![](imgs/screenshot4.png)
+![](imgs/screenshot5.png)
+![](imgs/screenshot6.png)
+![](imgs/screenshot7.png)
