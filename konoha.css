@@ -68,6 +68,8 @@ li{
     margin-top: 25px;
     width: 200px;
     margin-left: 25px;    
+    box-shadow: rgb(255, 130, 85) 3px 4px 15px ;
+
 }
 .pic1{
     box-sizing: border-box;
@@ -80,7 +82,7 @@ li{
     width: 1500px;
     box-sizing: border-box;
     font-family: Arial, Helvetica, sans-serif;
-    margin-left: 192;
+    margin-left: 250px;
     height: 1100;
 
 }  
@@ -104,7 +106,17 @@ li{
     margin: auto;
 
 }
-.h:hover{
+.h{
+    border-bottom: gray 5px solid;
+    width: 500px;
+    text-align: center;
+    padding: 20px 0px;
+
+
+}
+.hh:hover{
+    padding: 20px 0px;
+    
     border-bottom: rgb(255, 94, 35) 5px solid;
 }
 
@@ -128,7 +140,9 @@ li{
     margin: 4px 2px;
     cursor: pointer;
     padding: 23px 50px;
-    margin-top: 45px;}
+    margin-top: 45px;
+    box-shadow: rgb(255, 130, 85) 3px 4px 15px ;
+}
 
 
 .kek{
