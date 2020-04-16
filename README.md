@@ -1,5 +1,13 @@
 # Arsen Askhatuly
 Агай,если что на ноут делал,поэтому на скриншотах масштаб может показаться большим, но в жизни под маленький дисплей ноутбука норм лезет
+![](imgs/sp1.jpg)
+![](imgs/sp2.jpg)
+![](imgs/sp3.jpg)
+![](imgs/sp4.jpg)
+![](imgs/sp5.jpg)
+![](imgs/sp6.jpg)
+![](imgs/sp7.jpg)
+![](imgs/sp8.jpg)
 
 ![](imgs/screenshot1.png)
 ![](imgs/screenshot2.png)
